@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestApp.iml" filepath="$PROJECT_DIR$/TestApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-adapter-library/base-adapter-library.iml" filepath="$PROJECT_DIR$/base-adapter-library/base-adapter-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseadapter-recyclerview/baseadapter-recyclerview.iml" filepath="$PROJECT_DIR$/baseadapter-recyclerview/baseadapter-recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bottomnavigation/bottomnavigation.iml" filepath="$PROJECT_DIR$/bottomnavigation/bottomnavigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamnegan/gamnegan.iml" filepath="$PROJECT_DIR$/gamnegan/gamnegan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymvptest/mymvptest.iml" filepath="$PROJECT_DIR$/mymvptest/mymvptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photoview/photoview.iml" filepath="$PROJECT_DIR$/photoview/photoview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tabtest/tabtest.iml" filepath="$PROJECT_DIR$/tabtest/tabtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testapp2/testapp2.iml" filepath="$PROJECT_DIR$/testapp2/testapp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewArea/viewArea.iml" filepath="$PROJECT_DIR$/viewArea/viewArea.iml" />
+    </modules>
+  </component>
+</project>

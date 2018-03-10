@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android Project\\TestApp\\photoview\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sq\\values-sq.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\89667\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\979a36f05f7ccb71a7f39114696e80dd\\res\\values-sq\\values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Android Project\\TestApp\\photoview\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-sq\\values-sq.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\89667\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\979a36f05f7ccb71a7f39114696e80dd\\res\\values-sq\\values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+include ':mymvptest', ':testapp2', ':base-adapter-library', ':sample', ':baseadapter-recyclerview', ':gamnegan', ':photoview', ':tabtest', ':bottomnavigation', ':demo'
+include ':viewArea'
